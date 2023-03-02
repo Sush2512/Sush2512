@@ -1,16 +1,16 @@
 # Hello!
 
-I am _______.
-- 👨‍🎓 Pursuing Master's Degree in ______ from ______
-- 👨‍🎓 Bachelor Graduate from _____
-- 📚 Bachelor of ____ (20__-20__) 
-- 📚 Concentrations in _____
+I am Sushma SP
+- 👨‍🎓 Pursuing Master's Degree in Data Science, AI and Digital Business from Gisma University of Applied Sciences
+- 👨‍🎓 Bachelor Graduate from Mangalore Institute of Technological Science
+- 📚 Bachelor of Computer Application (2016-2019) 
+- 📚 Concentrations in Data Science and Machine Learning
 - 📫 How to reach me:
 
 <div align="center"> 
 
-[![Mail Badge](https://img.shields.io/badge/-name@mail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:name@mail.com)](mailto:name@mail.com)
-<a href="https://www.linkedin.com/in/___/">
+[![Mail Badge](https://img.shields.io/badge/-sushma25.gowda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sushma25.gowda@gmail.com)](mailto:sushma25.gowda@gmail.com)
+<a href="https://www.linkedin.com/in/sushma-sp-9700a2212">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   
@@ -20,8 +20,16 @@ I am _______.
 
 <p align="center"> <b>🛠️ Languages and Tools </b></p>
 <div align="center">
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tf" alt="tf" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp; 
 </div>
+
+
+---
 
 <div aligh="center">
   
