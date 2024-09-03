@@ -1,11 +1,11 @@
 # Hello!
 
-I am Sushma SP
-- 👨‍🎓 Master's Degree in Data Science, AI and Digital Business from Gisma University of Applied Sciences
-- 👨‍🎓 Bachelor Graduate from Mangalore Institute of Technological Science
-- 📚 Bachelor of Computer Application (2016-2019) 
-- 📚 Concentrations in Data Science and Machine Learning
-- 📫 How to reach me:
+I am Sushma SP👋
+🌱 I'm currently enhancing my skills in data science, data analytics, machine learning, cloud computing, and I'm eager to apply them in a professional environment.
+👨‍🎓 Master's Degree in Data Science, AI and Digital Business from Gisma University of Applied Sciences
+💻 I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓
+👀 I’m looking forward to start my journey as a Data Analyst or Data Scientist.
+📫 How to reach me:
 
 <div align="center"> 
 
